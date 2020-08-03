@@ -1,4 +1,10 @@
-### Hi there 👋
+### Heya 👋
+
+Nice to meet you! I work as a Full Stack Designer 👨‍🎨 and Developer 👨‍💻 with Van Software.
+
+Find me on:  
+🔥 https://www.connsuite.com  
+💼 https://www.vansoftware.ro
 
 <!--
 **razgraf/razgraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
