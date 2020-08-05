@@ -3,7 +3,7 @@
 Nice to meet you! I work as a Full Stack Designer 👨‍🎨 and Developer 👨‍💻 with Van Software.
 
 Find me on:  
-🔥 https://www.connsuite.com  
+🔥 https://www.connsuite.com/razgraf  
 💼 https://www.vansoftware.ro
 
 <!--
