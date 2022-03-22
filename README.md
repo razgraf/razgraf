@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Nice to meet you! I work as a Full Stack Designer. 👨‍🎨 and Developer 👨‍💻 with Van Software. Currently investing pixels as collateral with @PodsFinance. Former co-streamer at @SablierHQ
+I'm a Full Stack Designer 👨‍🎨 and Developer 👨‍💻. Investing pixels as collateral with @PodsFinance. Co-founder at @SablierHQ
 
 Find me on:  
 🔥 https://www.connsuite.com/razgraf  
