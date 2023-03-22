@@ -1,6 +1,7 @@
 ### Hi 👋
 
-I'm a Full Stack Designer 👨‍🎨 and Developer 👨‍💻. Investing pixels as collateral with @PodsFinance. Co-founder at @SablierHQ
+I'm a Full Stack Designer 👨‍🎨 and Developer 👨‍💻. 
+Co-founder and CPO at @SablierHQ. Prev. product at @pods-finance.
 
 Find me on:  
 🔥 https://www.connsuite.com/razgraf  
