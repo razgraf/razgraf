@@ -1,7 +1,7 @@
 ### Hi 👋
 
 I'm a Full Stack Designer 👨‍🎨 and Developer 👨‍💻. 
-Co-founder and CPO at @SablierHQ. Prev. product at @pods-finance.
+Co-founder and CPO at @sablier-labs. Prev. product at @pods-finance.
 
 Find me on:  
 🔥 https://www.connsuite.com/razgraf  
