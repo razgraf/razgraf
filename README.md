@@ -1,23 +1,9 @@
 ### Hi 👋
 
-I'm a Full Stack Designer 👨‍🎨 and Developer 👨‍💻. 
-Co-founder and CPO at @sablier-labs. Prev. product at @pods-finance.
+I'm Razvan Gabriel (@razgraf), a full stack designer and developer. 
 
-Find me on:  
-🔥 https://www.connsuite.com/razgraf  
-💼 https://www.vansoftware.ro
+I've spent the last few years building in web3. 
 
-<!--
-**razgraf/razgraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Co-founded @sablier-labs ([sablier.com](https://sablier.com)), worked on product at [pods-finance](https://pods.finance/) and freelanced at [vansoftware](https://vansoftware.ro).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Find me on X at [@razgraf](https://x.com/razgraf) or see part of my portfolio [here](https://vansoftware.ro).
