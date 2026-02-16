@@ -9,10 +9,11 @@ Co-founded @sablier-labs ([sablier.com](https://sablier.com)), worked on product
 Find me on X at [@razgraf](https://x.com/razgraf) or see part of my portfolio [here](https://vansoftware.ro).
 
 
-#### Recent work 🎒
+#### Recent (public) work 🎒
 
 - ✴️ [Sablier](sablier.com) - Token distribution products on EVM and Solana
 - 🪩 [Notion Mirror](https://github.com/razgraf/notion-mirror) - A vibe-coded app to help preview local backups of Notion workspaces
 - 🔢 [Romanian CAEN Codes](https://github.com/razgraf/coduri-caen) - A list of formatted Romanian CAEN codes for company registration
 - 💧 [Solana SPL Faucet](https://github.com/razgraf/solana-spl-faucet) - Mint SPL tokens under the same symbol and access them through an infinite faucet
 - 🦋 [React-on-the-fly](https://github.com/razgraf/react-on-the-fly) - A small VSCode extension to create boilerplate files for components
+- 🟣 [Van Software](https://www.vansoftware.ro/) - Freelancing portfolio
