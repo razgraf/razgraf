@@ -11,7 +11,7 @@ Find me on X at [@razgraf](https://x.com/razgraf) or see part of my portfolio [h
 
 #### Recent work 🎒
 
-- ✴️ [Sablier](sablier.com) - Token distribution product on both EVM and Solana
+- ✴️ [Sablier](sablier.com) - Token distribution products on EVM and Solana
 - 🪩 [Notion Mirror](https://github.com/razgraf/notion-mirror) - A vibe-coded app to help preview local backups of Notion workspaces
 - 🔢 [Romanian CAEN Codes](https://github.com/razgraf/coduri-caen) - A list of formatted Romanian CAEN codes for company registration
 - 💧 [Solana SPL Faucet](https://github.com/razgraf/solana-spl-faucet) - Mint SPL tokens under the same symbol and access them through an infinite faucet
