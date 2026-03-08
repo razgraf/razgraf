@@ -13,7 +13,6 @@ Find me on X at [@razgraf](https://x.com/razgraf) or see part of my portfolio [h
 
 - ✴️ [Sablier](sablier.com) - Token distribution products on EVM and Solana
 - 🟣 [Van Software](https://www.vansoftware.ro/) - Freelancing portfolio
-
 - 📡 [Intel](https://github.com/razgraf/intel) - Market-watching hub (stocks, etfs, live feeds)
 - 🔁 [Cron](https://github.com/razgraf/cron) - Task scheduler for repetitive AI queries
 - 🪩 [Notion Mirror](https://github.com/razgraf/notion-mirror) - Preview local backups of Notion workspaces
