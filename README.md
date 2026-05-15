@@ -2,7 +2,7 @@
 
 I'm Razvan Gabriel ([@razgraf](https://x.com/razgraf)). 
 
-I've spent the last few years designing and engineering products in web3.
+I've spent the last 11+ years designing and engineering products in web3.
 
 ### About ⭐
 
@@ -38,4 +38,6 @@ I've spent the last few years designing and engineering products in web3.
 - 🦋 [React-on-the-fly](https://github.com/razgraf/react-on-the-fly) - VSCode extension to create boilerplate files for react components
 - 👔 [Connsuite](https://www.producthunt.com/products/connsuite) - Online business card aggregating social media accounts and personalized content 
 
+
+[X](https://x.com/razgraf) | [LinkedIn](https://www.linkedin.com/in/razgraf/)
 
