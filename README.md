@@ -2,7 +2,7 @@
 
 I'm Razvan Gabriel ([@razgraf](https://x.com/razgraf)). 
 
-I've spent the last 11+ years designing and engineering products in web3.
+I've spent the last 11+ years designing and engineering products in web2+3.
 
 ### About ⭐
 
