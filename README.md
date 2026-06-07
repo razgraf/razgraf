@@ -2,10 +2,9 @@
 
 I'm Razvan Gabriel ([@razgraf](https://x.com/razgraf)). 
 
-I've spent the last 11+ years designing and engineering products in web2+3.
-
 ### About ⭐
 
+- Designer of [razgraf.com](https://razgraf.com)
 - Co-founder of [Sablier](https://sablier.com), leading product design and development
 - Freelancer at [Van Software](https://vansoftware.ro)
 - Prev. design engineer at [Pods Finance](https://pods.finance/)
