@@ -38,5 +38,5 @@ I'm Razvan Gabriel ([@razgraf](https://x.com/razgraf)).
 - 👔 [Connsuite](https://www.producthunt.com/products/connsuite) - Online business card aggregating social media accounts and personalized content 
 
 
-[X](https://x.com/razgraf) | [LinkedIn](https://www.linkedin.com/in/razgraf/)
+[X](https://x.com/razgraf) | [LinkedIn](https://www.linkedin.com/in/razgraf/) | [Portfolio on razgraf.com](https://razgraf.com)
 
