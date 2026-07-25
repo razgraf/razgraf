@@ -5,9 +5,9 @@ I'm Razvan Gabriel ([@razgraf](https://x.com/razgraf)).
 ### About ⭐
 
 - Designer of [razgraf.com](https://razgraf.com)
-- Co-founder of [Sablier](https://sablier.com), leading product design and development
+- Co-founder of [Sablier](https://sablier.com), leading product design and engineering
 - Freelancer at [Van Software](https://vansoftware.ro)
-- Prev. design engineer at [Pods Finance](https://pods.finance/)
+- Prev. product design engineer at [Pods Finance](https://pods.finance/)
 
 ### Work 🎒
 
