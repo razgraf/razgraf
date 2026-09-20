@@ -30,7 +30,6 @@ I'm Razvan Gabriel ([@razgraf](https://x.com/razgraf)).
 ### Experiments 🔬
   
 - 📡 [Intel](https://github.com/razgraf/intel) - Market-watching hub (stocks, etfs, live feeds)
-- 🔁 [Cron](https://github.com/razgraf/cron) - Task scheduler for repetitive AI queries
 - 🪩 [Notion Mirror](https://github.com/razgraf/notion-mirror) - Preview local backups of Notion workspaces
 - 🔢 [Romanian CAEN Codes](https://github.com/razgraf/coduri-caen) - Formatted Romanian CAEN codes for company registration
 - 💧 [Solana SPL Faucet](https://github.com/razgraf/solana-spl-faucet) - Mint SPL tokens under the same symbol and access them through an infinite faucet
